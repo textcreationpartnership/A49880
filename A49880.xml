@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's happiness in a discourse occasionally written on the glorious solemnity of the coronation of King VVilliam and Queen Mary, the 11th of this instant April : being an incitement to loyalty and obedience, and a Christian acknowledgement to God almighty for his mercies and favours towards these kingdoms ... / by B.L.</title>
+            <author>B. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49880</idno>
+            <idno type="STC">Wing L7A</idno>
+            <idno type="STC">ESTC R43330</idno>
+            <idno type="EEBO-CITATION">27207271</idno>
+            <idno type="OCLC">ocm 27207271</idno>
+            <idno type="VID">110034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110034)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's happiness in a discourse occasionally written on the glorious solemnity of the coronation of King VVilliam and Queen Mary, the 11th of this instant April : being an incitement to loyalty and obedience, and a Christian acknowledgement to God almighty for his mercies and favours towards these kingdoms ... / by B.L.</title>
+                  <author>B. L.</author>
+               </titleStmt>
+               <extent>23, [1] p. : ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains added illus. t.p. with ports. of William and Mary, which are repeated on p. [1] at end.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Coronation.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Coronation.</term>
+               <term>Bible. --  O.T. --  Proverbs XXIX, 2 --  Sermons.</term>
+               <term>Coronation sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110034:1" rendition="simple:additions"/>
+            <p>
+               <hi>England's</hi> HAPPINESS: In a DISCOURSE Occaſionally Written on the glorious Solemnity of the CORONATION. Of King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> The 11th. of <hi>April.</hi> 1689.</p>
+            <p>By <hi>B L.</hi>
+            </p>
+            <figure>
+               <figDesc>portraits of William and Mary with crowns</figDesc>
+            </figure>
+            <p>Printed for <hi>J. Blare</hi> on <hi>London-Bridge</hi> 1689.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:110034:2"/>
+            <pb facs="tcp:110034:2" rendition="simple:additions"/>
+            <p>
+               <hi>England's</hi> HAPPINESS; In a DISCOURSE Occaſionally Written on the glorious Solemnity of the CORONATION Of King <hi>VVilliam</hi> and Queen <hi>Mary,</hi> the 11th. of this inſtant <hi>April.</hi>
+            </p>
+            <p>BEING An Incitement to <hi>Loyalty</hi> and <hi>Obedience,</hi> and a Chriſtian Acknowledgment to God Almighty for His Mercies and Favours towards theſe Kingdoms, in Bleſſing us with ſo gracious a King and Queen, and the extraordinary Felicity we are like to poſſeſs in our Great and Miraculous Delivery from the Danger we might have expected.</p>
+            <p>By <hi>B. L.</hi>
+            </p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>J. Blare</hi> at the Looking-glaſs on <hi>London-Bridge,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110034:3"/>
+            <pb n="5" facs="tcp:110034:3"/>
+            <head>ENGLAND'S <hi>HAPPINESS,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Prov. 29.2.</hi>
+                  </bibl>
+                  <p>When the Righteous are in Authority the People rejoice.</p>
+               </q>
+            </epigraph>
+            <p>WHat greater Bleſſing can fall to the ſhare of any Kingdom, or People on Earth, than to be Governed with Uprightneſs, and Truth; to ſee her ſelf fenced about with Juſtice and Judgment; her Laws, that are her ſe<g ref="char:EOLhyphen"/>curity, to run ſmooth in an interrupted Chanel of Impartiality, where no Cor<g ref="char:EOLhyphen"/>ruption can turn them aſide to deſtroy the Innocent, nor free the Guilty? in ſuch a Caſe, I ſay, a Nation is happy, and this depends mainly on the ſupreme Power; for where the Fountain runs with a Chryſtal Stream the Waters are pleaſing, and deſirable; they refreſh
+<pb n="6" facs="tcp:110034:4"/>the fainting Heart, and ſpread a Joy through thoſe that partake of them; but when it proves the contrary, no ſa<g ref="char:EOLhyphen"/>tisfaction is rendered; for according to the Saying of the wiſe Man, <hi>Prov.</hi> 29.2. <hi>When the Righteous are in Autho<g ref="char:EOLhyphen"/>rity the People rejoice: but when the Wicked beareth Rule the People mourn.</hi> And we find that when God more immediately deſigned to favour his People <hi>Iſrael,</hi> he gave them his Servant <hi>David</hi> to be their King, and to Reign over them; and with him he gave them Plenty in their Gates, and Victory over their E<g ref="char:EOLhyphen"/>nemies, brought under the Oppreſſour, and the Spoiler was no more ſeen in the ſtreets, the Cries of the oppreſſed were turned into Songs of Deliverances, and they were made to hear of Joy and Gladneſs; for how plainly may we behold in Holy Writ the Face of things to be changed, and that People, who but a little before were compelled to bow their Necks to the Yoke of the <hi>Philiſtines,</hi> a cruel and mercifull Ene<g ref="char:EOLhyphen"/>mies, had their Lands waſted and ſpoi<g ref="char:EOLhyphen"/>led, looking every moment to be de<g ref="char:EOLhyphen"/>ſtroyed, ſuddenly raiſed to unexpected Advantages; their Enemies were put
+<pb n="7" facs="tcp:110034:4"/>to flight, they had Peace in their Dwel<g ref="char:EOLhyphen"/>ling, their Vineyards, and Olive-yards flouriſhed, and Corn and Wine encrea<g ref="char:EOLhyphen"/>ſed, ſo that they might conclude them<g ref="char:EOLhyphen"/>ſelves, by a ſudden and unexpected Change, more happy than the Nations round about them, and it muſt conſe<g ref="char:EOLhyphen"/>quently be a greater ſatisfaction to any People, and create in their Minds a larger ſenſe of Joy, and thankfull Ac<g ref="char:EOLhyphen"/>knowledgment, to be ſnatched from a Chaos of Diſorder and Confuſion, threatning every moment Ruin and De<g ref="char:EOLhyphen"/>ſolation, into Calmneſs, Serenity, and a proſpect of laſting Tranquility, than if they had been in no ſuch Danger. Holy <hi>David</hi> gives extraordinary Praiſe and Acknowledgment on this occaſion, Pſalm 124.6, 7, 8. <hi>Bleſſed be the Lord, who hath not given us a Prey to their Teeth; our Soul is eſcaped, as a Bird out of the Snare of the Fowler; the Snare is broken, and we are eſcaped: our help is in the Name of the Lord, who made Heaven and Earth.</hi> And indeed it has been no leſs in all Ages of the World; for any Man de<g ref="char:EOLhyphen"/>livered from a ſharp and torturing pain, or from an extream peril and danger, concludes that Deliverance an extra<g ref="char:EOLhyphen"/>ordinary
+<pb n="8" facs="tcp:110034:5"/>Happineſs; then it behoves us to raiſe our Souls to a highth that may fill us with Joy, for a more than ordi<g ref="char:EOLhyphen"/>nary Deliverance, in conſidering the Royal Inſtrument is in the Hand of the Authour of all our Happineſs, from whom we have our being, and our well-being; for as it is written, <hi>Prov.</hi> 23.11. <hi>He that loveth pureneſs of Heart, for the Grace of his Lips, the King ſhall be his Friend.</hi> And what can be more deſira<g ref="char:EOLhyphen"/>ble? for the favour of a Righteous Prince is more excellent than Gold, and his Love above the price of all precious things; he ſits fearleſs from Danger, and is the brightneſs and luſtre of his Kingdom: And as a more excellent E<g ref="char:EOLhyphen"/>pethite, the wiſe Man ſays, <hi>Prov.</hi> 29.14. <hi>The King that faithfully judgeth the Poor his Throne ſhall be eſtabliſhed for ever;</hi> and, as no ſmall honour, and peculiar favour of Heaven, even the Church of Chriſt hath a comfortable Promiſe, <hi>viz. That Kings ſhall be her nurſing Fathers, and Queens her nurſing Mothers.</hi>
+            </p>
+            <p>Theſe things bring us to a further conſideration, which may more and more open our Eyes to behold what may make us with a Holy Zeal cry out,
+<pb n="9" facs="tcp:110034:5"/>
+               <hi>This is the Lords doing, and it is mar<g ref="char:EOLhyphen"/>vellous in our Eyes;</hi> for who but a ſhort time ſince could have foreſeen the Mira<g ref="char:EOLhyphen"/>cles he has done by the Prudence, Con<g ref="char:EOLhyphen"/>duct and Courage of the happy Inſtru<g ref="char:EOLhyphen"/>ment in his hand, which in the perfor<g ref="char:EOLhyphen"/>mance required Vertues, hardly to be credited, till ſeen. Great indeed, have been the Actions and Fame of Men in moſt Ages, for being renowned in War, celebrated in Learning, or excellent in curious Arts, which has cauſed their Names to be Regiſtred in the Golden Robes of Fame; but in this the diffe<g ref="char:EOLhyphen"/>rence is vaſtly tranſcendent, and no<g ref="char:EOLhyphen"/>thing but wonder and aſtoniſhment can fill our minds, whilſt we contemplate it, and are carried away with thoughts of our happineſs, <hi>when the Righteous are in authority, the people rejoice.</hi>
+            </p>
+            <p>But to come nearer, there ought to be in this Caſe a great and more than ordinary ſenſe of the higheſt Gratitude incumbent on us; and firſt let us lift our Eyes to Heaven, and give hearty Praiſe and Acknowledgment, adoring his Good<g ref="char:EOLhyphen"/>neſs and Mercy, confeſſing with Holy <hi>David, Pſal.</hi> 126. v. 3. <hi>The Lord hath done great things for us, whereof we are
+<pb n="10" facs="tcp:110034:6"/>glad;</hi> &amp; eſpecially according to the Ad<g ref="char:EOLhyphen"/>vice of the Authour to the <hi>Hebrews, Heb.</hi> 13.1. <hi>Let Brotherly Love continue.</hi> Let us own our ſelves unworthy of ſo great a Bleſſing, and humble our ſelves before him that exalteth the lowly, and abaſeth the Proud: Let us com<g ref="char:EOLhyphen"/>mit our ways to the Lord, and put our Truſt in the Shield and Rock of our Sal<g ref="char:EOLhyphen"/>vation, and ever bleſs his Holy Name, that we live to ſee this happy day, in which we beheld the Work of our De<g ref="char:EOLhyphen"/>liverance ſo fully wrought, and as our Hearts ought ever to be full charged with Joy, for the Peace and welfare of <hi>Zion,</hi> ſo let us ſtudy to preſerve &amp; main<g ref="char:EOLhyphen"/>tain it to the utmoſt of our power, by uniting in Peace, and Unity, that by our Breaches or Diviſions, we may give the Enemy to advantage over us, that by the old <hi>Machiavilian</hi> Policy we may not divide, thereby to ſuffer breaking in or going out; and that there may be no murmuring or complaining in our Streets. We, no doubt, are one of the beſt Governments, founded upon whole<g ref="char:EOLhyphen"/>ſome and ſubſtantial Laws; the Purity of the Goſpel ſhines bright as the Morning-Star amongſt us, Plenty flows in our
+<pb n="11" facs="tcp:110034:6"/>Land, and the Oppreſſours are remo<g ref="char:EOLhyphen"/>ved from our Gates; let us then con<g ref="char:EOLhyphen"/>clude our ſelves a People in a happy Condition; yea, rather let us conclude our ſelves ſo, becauſe our <hi>God is the Lord,</hi> who, with a mighty and out<g ref="char:EOLhyphen"/>ſtretched Arm, has raiſed up Salvation to us, and heard us out of his Holy Hill in the time of trouble, and has bound himſelf by a holy promiſe, if we provoke him not by our ſins, he will never leave nor forſake us. O! that Men would therefore Praiſe the Lord.</p>
+            <p>But ſecondly, O <hi>let us Kiſs the Son, leaſt after all theſe Mercies, he be angry, and his anger burn againſt us, for making no better uſe of ſo great a Mercy. A Wiſe Man is as ſtedfaſt as the Foundation of the Earth,</hi> ſays the Philoſopher, and in Holy Scripture finds, he builds a Houſe upon a Rock, and that Rock is Jeſus Chriſt, the Son of God, and therefore his Houſe is never ſhaken down, though the Storms or Tempeſts be ne<g ref="char:EOLhyphen"/>ver ſo rough and raging, <hi>He that truſt<g ref="char:EOLhyphen"/>eth in the Lord, ſhall ſtand as Mount Sion.</hi> This made Holy <hi>David</hi> bold, when he ſaid, Pſal. 23. <hi>Though I ſhould walk through the Valley of the Shadow of
+<pb n="12" facs="tcp:110034:7"/>Death, I will fear no Evil; for thou art with me, thy Red and thy Staff, they ſhall comfort me</hi> and again, <hi>Pſal.</hi> 27. <hi>The Lord is my Light and my Salvation, whom ſhall I fear?</hi>
+            </p>
+            <p>When <hi>Ezekiah</hi> heard the proud Meſ<g ref="char:EOLhyphen"/>ſage of a Scribe ſent to him and his Peo<g ref="char:EOLhyphen"/>ple, by <hi>Rabſhaketh</hi> the King, ſtood not much to conſult the Arm of Fleſh, but went unto the Houſe of the Lord, and prayed unto the Lord to ſave him and his people out of the hands of their Enemies, that all the Kingdoms of the Earth might know he is alone God, and accordingly the Aſſyrian Hoſt fell before them, without any loſs to the Iſraelites. This Miraculous Deliverence may in ſomemeaſure be applyed to our Caſe; God ſent his Angel to put fear into the Hearts of thoſe who, a little before, thought of nothing but our Ruine, blaſting and withering all their Courage, and enfeebling them, that they were not able to carry on their Devices to any kind of perfection, that had coſt them extraordinary Treaſure, Labour and Induſtry. This we muſt own to be the Lord's doing; for it is moſt plainly demonſtrated, as it was revealed to the
+<pb n="13" facs="tcp:110034:7"/>great Babilonian Monarch, that the moſt High God rules in the Kingdoms of Men, and gives them to whom he pleaſes; 'Tis he that rules the Hearts of Kings and Princes, diſpoſing of them as it ſeemeth beſt to his Godly Wiſ<g ref="char:EOLhyphen"/>dom; all Crowns and Scepters are be<g ref="char:EOLhyphen"/>fore him, and in his Hands are the Bal<g ref="char:EOLhyphen"/>lances of the Earth; his looks dry up the Deep, and the Winds are in the hollow of his hand; Power and Might are ever before him, to do what ſeems beſt to his infinite Wiſdom; for whatever he wills, that he has Power to perform. Theſe things conſidered, What Perſons ought we to be in all Holineſs and Converſation, that he may continue his Love and Favour towards us, that he continue his Protection and Favour towards us? for although his Mer<g ref="char:EOLhyphen"/>cy is, and has been very great, yet if we triffle with ſuch tranſcendent Goodneſs, What can we expect, but that he ſhould change his Smiles into Frowns, as hath happened to many, who have turned his Grace into wantonneſs? <hi>O let us not, like Geſſerun, wax Fat, and kick againſt our Maker; but rather ſeri<g ref="char:EOLhyphen"/>ouſly conſider what he has done for this
+<pb n="14" facs="tcp:110034:8"/>Land and People,</hi> with all the thoughts of Humility and Gratitude, that we enjoy the Royal Bleſſings, on whoſe Heads the Crowns flouriſh in Righte<g ref="char:EOLhyphen"/>ouſneſs, and may their Thrones be e<g ref="char:EOLhyphen"/>ſtabliſhed, that every one ſits under his Vine in peace, not conſtrained or com<g ref="char:EOLhyphen"/>pelled to violate his Conſcience, or to undergoe hard-ſhips upon the Score of Conſcience or Religion: And the better to mind us of it, let us look back a lit<g ref="char:EOLhyphen"/>tle into the times of Perſecution, where<g ref="char:EOLhyphen"/>in the Saints of God ſuffered all manner of ignominy, and torment, being hated of all Men for the Name of Chriſt, de<g ref="char:EOLhyphen"/>ſpiſed as the Filth of the World and Dung of the Earth; yet they continued faithfull and conſtant, arming their Hearts with the comforts of God's Pro<g ref="char:EOLhyphen"/>miſes in his Goſpel, and were ſo far from repining, that they ſuffered joy<g ref="char:EOLhyphen"/>fully, and many run violently to flames and torments, not accepting Delive<g ref="char:EOLhyphen"/>rance, ſinging Triumphs, even in the Arms of Death; and when they were called before Kings and Princes, and o<g ref="char:EOLhyphen"/>thers of Authority, and commanded to forſake the Truth of the everlaſting Go<g ref="char:EOLhyphen"/>ſpel, they notwithſtanding continued
+<pb n="15" facs="tcp:110034:8"/>faithfull unto Death, to gain a Crown of Life and glorious Immortality.</p>
+            <p>Theſe Tryalls, I ſay, are not before us, we live at Peace under a Pious and Vertuous King and Queen, who make Religion the brighteſt Jewels in their Crowns, and the higheſt concernment of Regal Glory: We live under ſuch Laws as guard and ſecure our Religi<g ref="char:EOLhyphen"/>on, Lives, Liberties and Properties to us. This might raiſe us to the Rapture of the Kingly Prophet, when he ſays, <hi>Thou Lord, ſhalt have both Man and Beaſt, how excellent are thy Mercies, O God! and the Children of men ſhall put their truſt un<g ref="char:EOLhyphen"/>der the ſhadow of thy Wings; they ſhall be ſatisfied with the plenteouſneſs of thy Houſe, and thou ſhalt give them to drink at thy pleaſure, as out of a River; for with thee is the Well of Lafe, and in thee we ſhall ſee Light,</hi> Pſal. 36.7, 8, 9. and certainly no Eye can perceive, nor Heart con<g ref="char:EOLhyphen"/>ceive, the high and ſudden pleaſures which God has in ſtore, for thoſe that with thankfull Hearts and Minds obey, and ſerve him; be earneſt then, in run<g ref="char:EOLhyphen"/>ning the Race that is ſet before you, contend for the Prize of an ineſtimable value, that may Crown you with Imor<g ref="char:EOLhyphen"/>tality,
+<pb n="16" facs="tcp:110034:9"/>and Eternal Life; and be carefull to conſider what the Apoſtle ſays, Gal. 6. <hi>Look what a man ſoweth, that ſhall he reap; he who ſoweth in the Fleſh, ſhall of the Fleſh reap Corruption; but he that ſoweth in the Spirit, ſhall of the Spirit reap ever<g ref="char:EOLhyphen"/>laſting Life;</hi> for God, ſays Holy <hi>David, Rewardeth every man according to his work,</hi> Pſal. 16.12. <hi>Let us take heed to our ſelves therefore, that we miſtake not our way, and wander upon the dark moun<g ref="char:EOLhyphen"/>tains; for as the wiſe Man ſays,</hi> Eccl. 21.10. <hi>The way of ſinners is paved with ſtones; but at the end thereof is Hell and Dark<g ref="char:EOLhyphen"/>neſs, and Pains; but let us with fear and reverence approach the Throne of that Tre<g ref="char:EOLhyphen"/>mendious Majeſty, who makes Darkneſs his ſecret place, and Clouds and thick Miſts are round about him, yet dwells, in unap<g ref="char:EOLhyphen"/>proachable Brightneſs, in whoſe preſence is fullneſs of joy, and at whoſe right hand, are pleaſures for evermore.</hi> Great, we muſt confeſs, it is to dwell in glittering Courts and gilded Palace, to enjoy the Smiles and Favours of a Prince, to have Attendance, and Trains of Pomp and Grandeur, followed with State, and even the Enſigns of Majeſty cringed too, ſerved with a kind of an Adoration; this
+<pb n="17" facs="tcp:110034:9"/>muſt raiſe the mind to a very high pitch, though ſupported with an ex<g ref="char:EOLhyphen"/>traordinary vertue; but when we con<g ref="char:EOLhyphen"/>ſider this world, and the Faſhion of it paſſes away, of what little moment and duration all earthly things conſiſt, then we muſt confeſs them of two ſmall a value to ſix our hearts upon, and own that here we have no tarrying City, but look for one above, the bright celeſtial City, the new <hi>Jeruſalem,</hi> there our im<g ref="char:EOLhyphen"/>perfect joys will be made full and com<g ref="char:EOLhyphen"/>plete, when we ſhall be found worthy to attend on the Throne of the King of Kings, with Songs of Praiſe and Thankſ<g ref="char:EOLhyphen"/>giving, and our Fellow-Courtiers ſhall Seraphim, Cherubim, Arch-Angels, Patriarchs, Apoſtles, Saints and Mar<g ref="char:EOLhyphen"/>tyrs, and all the Souls of juſt men made perfect. Theſe are things worthy of our higheſt contemplation, and the Stairs that lead to this Manſion, built without hands, are Faith, Hope, Cha<g ref="char:EOLhyphen"/>rity, Juſtice, Uprightneſs, and many other Graces and Vertues, that ought to ſhine in the Soul of a good Chriſtian, as the Stars in the Firmament guiding him through the Wilderneſs of this
+<pb n="18" facs="tcp:110034:10"/>World, that he wander not into the Paths of error, which at the enterance appear in proſpect exceeding fair, and many times be deſired, but are full of ſtumbling Blocks, and paved with Ruine, to overthrow and bring to de<g ref="char:EOLhyphen"/>ſtruction, ſuch as go aſtray, and of this the Wiſe man gives us an <hi>Item, Prov.</hi> 28.18. <hi>Whoſe walketh uprightly ſhall be ſaved, but he that is preverſe in his ways, ſhall fall at once,</hi> and this brings me to the third conſideration and exhor<g ref="char:EOLhyphen"/>tation, to follow the way of vertue and uprightneſs.</p>
+            <p>Since the Wiſdom of the Father has declared, that by him Kings Reign, and Princes decree Juſtice and Judgment, we ought to look upon them as extra<g ref="char:EOLhyphen"/>ordinary perſons, with a diſtence, of re<g ref="char:EOLhyphen"/>ſpect and obedience, becoming the higheſt Character upon Earth; and more immediately charged by the Al<g ref="char:EOLhyphen"/>mighty with the care of the Kingdom, Nation, or People, committed to their Truſt and Care; and here we are com<g ref="char:EOLhyphen"/>manded to tender to <hi>Caeſar</hi> the Things that are <hi>Caeſars,</hi> Rom. 13 8. <hi>And let e<g ref="char:EOLhyphen"/>very Soul be ſubject to the higher powers, for there is no power but of God; the pow<g ref="char:EOLhyphen"/>ers
+<pb n="19" facs="tcp:110034:10"/>that are, are ordained of God.</hi> Tit. 3.1. <hi>Whoſoever therefore reſisteth the power, reſisteth the Ordinance of God, and they that reſiſt ſhall receive to themſelves Dam<g ref="char:EOLhyphen"/>nation</hi> 1 Pet. 2.13. <hi>Put them in mind to be ſubject to the principalities and powers, and to obey Magiſtrates, and again, ſubmit your ſelves to every Ordinance of Man, for the Lord's ſake, whether it be to the King as Supreme, or unto Governours, as unto them that are ſent by him for the puniſhment of Evil Doers, and the praiſe of them that do well.</hi>
+            </p>
+            <p>Theſe are the Commands of Heaven, carrying with them an undiſputable Au<g ref="char:EOLhyphen"/>thority, which demands our Obedience in ſo ſtrict a ſenſe, that they leave us no place of turning to the right, or the left, and therefore our Circumſpection muſt be great; but a good Prince even commands the Hearts of his Subjects, and there flows a univerſal concurrence in Duty and Affection, from ſecret Springs of the mind; <hi>for when the Righ<g ref="char:EOLhyphen"/>teous are in Authority the People rejoice.</hi> A good Man, a value and eſteem inſe<g ref="char:EOLhyphen"/>parable from vertuous Actions, which gives Life to thoſe that are Influenced by him, and obliges them to Joy and
+<pb n="20" facs="tcp:110034:11"/>Gladneſs, even amidſt their melancholly Thoughts: But on the contrary, as 'tis in the latter part of the Verſe, <hi>when the Wicked beareth rule the People mourn.</hi> This is not difficult to be proved, but rather evident, if we look upon our preſent Condition for the former, and on our Neighbour Kingdom for In<g ref="char:EOLhyphen"/>ſtances of the latter.</p>
+            <p>I might lay down many particulars more than are already mentioned, to exhort and perſuade all to true Loyalty and Obedience, but think it, in our Caſe, altogether needleſs in a generous Nation, whoſe Souls ſcorn any thing beneath themſelves, and hold it the blackeſt of all Crimes to be branded with Ingratitude, unleſs by the way I ſhould take notice of the Sons of <hi>Rome,</hi> who are bigotted into Opinions, for which they cannot give us the leaſt Reaſon, unleſs they ſhuffle it upon a blind Obedience to their pretended ſpiritual head, who ſits upon his ſeven Hills, and ſends his Foxes with Fire<g ref="char:EOLhyphen"/>brands at their Tails to inflame the World; but we find his Meaſures have been taken amiſs, the Snare is broken,
+<pb n="21" facs="tcp:110034:11"/>and we are eſcaped; and what ſhall we now ſay, but that our Hearts are filled with Joy and Gratitude to our Delive<g ref="char:EOLhyphen"/>rer? who, when they thruſt ſore at us, and we had almoſt fallen, upheld us, even when with holy <hi>David,</hi> we might truly have ſaid, <hi>If the Lord had not hel<g ref="char:EOLhyphen"/>ped me it had failed, but my Soul ſhould have been put to Silence,</hi> Pſalm 94.17. when on the contrary, though in a low<g ref="char:EOLhyphen"/>er degree, we may ſing with <hi>Solomon,</hi> Cant. 2.10. <hi>Ariſe my Love, my fair One, and come thy way; for behold Winter is paſt, the ſhower is over, the flowers have appeared in our Land.</hi>
+            </p>
+            <p>And now to God the Father, Son, and Holy Ghoſt, be all Power, Glory, Honour, and Dominion, World with<g ref="char:EOLhyphen"/>out end. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="22" facs="tcp:110034:12"/>
+            <head>A Prayer for the King and Queen, and preſervation of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion.</head>
+            <p>
+               <hi>O</hi> Lord God, Holy, and Righteous, in whoſe Hands are the Hearts of Kings and Princes, we, with all hu<g ref="char:EOLhyphen"/>mility, and low proſtration, im<g ref="char:EOLhyphen"/>plore thy Benediction upon Their moſt gracious Majeſties King <hi>William</hi> and Queen <hi>Mary,</hi> protect them with thy Almighty Power, and give them Wiſdom from above; endue them with all Princely Graces, give them the Bleſſings of the right and left hand, and inſpire them with
+<pb n="23" facs="tcp:110034:12"/>Zeal and Courage, ever to pro<g ref="char:EOLhyphen"/>tect thy ſacred Truth; make the King a nurſing Father, and the Queen a Nurſing Mother to thy Church, and let their days be as the days of Heaven. Grant O moſt Mercifull Lord God, that the Vine which thou haſt planted with thy own right hand, may proſper and flouriſh, till its Branches o<g ref="char:EOLhyphen"/>verſpread the Earth; proſper our Counſellours in great Affairs, and inſpire our Senators to carry on with a fervent Zeal, whate<g ref="char:EOLhyphen"/>ver may tend to thy Glory, and to the good and wellfare of the Kingdom, for the ſake of our ever bleſſed Lord and Saviour Jeſus Chriſt, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="portraits">
+            <pb facs="tcp:110034:13"/>
+            <p>
+               <figure>
+                  <figDesc>portraits of William and Mary in roundels</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:110034:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
